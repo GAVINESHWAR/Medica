@@ -1,4 +1,5 @@
 Of course! Here's the **README.md** file content formatted for easy copy-pasting:
+![image](https://github.com/user-attachments/assets/3e5ae896-a5a9-45ae-875a-e9c998639c6e)
 
 ![image](https://github.com/user-attachments/assets/18f3abfe-7f66-4c1e-9efa-bb52b45fe45c)
 
